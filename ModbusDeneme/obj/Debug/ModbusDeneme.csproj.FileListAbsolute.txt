@@ -1,0 +1,13 @@
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\bin\Debug\ModbusDeneme.exe.config
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\bin\Debug\ModbusDeneme.exe
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\bin\Debug\ModbusDeneme.pdb
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.csproj.AssemblyReference.cache
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.Form1.resources
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.Properties.Resources.resources
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.csproj.GenerateResource.cache
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.exe
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.pdb
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\bin\Debug\NModbus4.dll
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\bin\Debug\NModbus4.xml
+C:\Users\FURKAN\source\repos\ModbusDeneme\ModbusDeneme\obj\Debug\ModbusDeneme.csproj.CopyComplete
